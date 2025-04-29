@@ -1,75 +1,91 @@
-<h1 align="center">Hi 👋, I'm Mankirat Singh</h1>
-<h3 align="center">A Full Stack Developer with an efficient and effective coding approach</h3>
+# **🚀 Mankirat Singh | Full-Stack Developer & UI Animations Enthusiast**  
+
+<div align="center">  
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mankirat+Singh;Full-Stack+Developer;MERN+Stack+Specialist;Real-Time+Web+Apps+%26+WebSockets;UI%2FUX+Animations+%7C+GSAP+%26+Framer" alt="Typing SVG" />  
+
+</div>  
 
 ---
 
-🎓 BCA Graduate | 💻 MERN Stack Developer | ⚙️ Real-Time & Animated Web Experience Enthusiast
+## **🔥 About Me**  
+
+💻 **Full-Stack Developer** with expertise in **MERN Stack**  
+⚡ Passionate about **real-time web apps** & **smooth UI animations**  
+🚀 Building **scalable, performant, and maintainable** web applications  
+🎨 Love crafting **interactive, animated UIs** with **GSAP & Framer Motion**  
+📊 Strong focus on **clean, efficient, and reusable** code  
 
 ---
 
-## 🚀 About Me
+## **🛠️ Tech Stack**  
 
-- 👨‍💻 I’m a full-stack developer passionate about building efficient, scalable, and impactful web applications.
-- 🔧 I specialize in the **MERN stack** and love working with **real-time technologies** like WebSockets.
-- 💡 I focus on writing clean, reusable, and maintainable code with performance in mind.
-- 🎨 I also enjoy creating smooth, animated interfaces using **GSAP** and **Framer Motion**.
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
 
----
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)  
 
-## 🌟 Top Projects
-
-### 🔷 [Landslide Disaster Management System](https://github.com/mankirat657/landslide-disaster-management)
-> A MERN-based system that provides real-time alerts and reporting based on rainfall, terrain, and soil type using WebSockets.
-
-### 🟩 [Real-Time Chat App](https://github.com/mankirat657/realtime-chat-app)
-> A chat application built with the MERN stack and WebSockets for instant messaging and updates.
-
-### 🔗 [Favorite Link Setter](https://github.com/mankirat657/favorite-links)
-> A productivity tool to save and access your most-used links, built with clean UI and modular code.
-
----
-
-## 🧠 Skills & Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer--Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-## 💼 Internship Experience
+## **🚀 Featured Projects**  
 
-**React.js Intern at Domain Expansion**  
-- 🔗 Integrated APIs and built responsive frontend components  
-- 🛠 Fixed UI/functional bugs across transport and restaurant/bar websites  
-- 🎨 Created animated websites using GSAP and Framer Motion  
-- 🤝 Participated in daily team meetings to ensure smooth progress
+### **🌋 Landslide Disaster Management System**  
+🔹 **MERN Stack** | **Real-time Alerts** | **WebSockets**  
+📌 Monitors rainfall, terrain, and soil data to predict landslides  
+🔗 [GitHub](https://github.com/mankirat657/landslide-disaster-management)  
 
----
+### **💬 Real-Time Chat App**  
+🔹 **MERN + Socket.io** | **Instant Messaging**  
+📌 Live chat with WebSocket-powered updates  
+🔗 [GitHub](https://github.com/mankirat657/realtime-chat-app)  
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mankirat657&show_icons=true&theme=tokyonight" alt="Mankirat's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mankirat657&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankirat657&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### **🔗 Favorite Link Setter**  
+🔹 **React + LocalStorage** | **Productivity Tool**  
+📌 Save and quickly access frequently used links  
+🔗 [GitHub](https://github.com/mankirat657/favorite-links)  
 
 ---
 
-## 📫 Connect with Me
+## **📈 GitHub Stats**  
 
-- GitHub: [@mankirat657](https://github.com/mankirat657)
-- LinkedIn: *(Add your LinkedIn link here)*
+<div align="center">  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mankirat657&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankirat657&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mankirat657)  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mankirat657&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mankirat657)  
+
+</div>  
 
 ---
 
-*Thank you for visiting my profile! 🙌*
+## **📫 Let's Connect!**  
+
+🔗 [**GitHub**](https://github.com/mankirat657)  
+💼 [**LinkedIn**](#) *(Add your LinkedIn link)*  
+📧 **Email** *(Add your email)*  
+
+---
+
+<div align="center">  
+
+### **⚡ Thanks for visiting! Let's build something amazing together.**  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mankirat657&color=blueviolet&style=flat-square)  
+
+</div>  
+
