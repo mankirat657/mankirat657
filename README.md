@@ -1,8 +1,8 @@
-# **🚀 Mankirat Singh | Full-Stack Developer & UI Animations Enthusiast**  
+# **🚀 Mankirat Singh | Full-Stack Developer & UI Animatior**  
 
 <div align="center">  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mankirat+Singh;Full-Stack+Developer;MERN+Stack+Specialist;Real-Time+Web+Apps+%26+WebSockets;UI%2FUX+Animations+%7C+GSAP+%26+Framer" alt="Typing SVG" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mankirat+Singh;Full-Stack+Developer+%7C+UI%2FUX+Animations;MERN+Stack+%7C+WebSockets+%7C+Real-Time+Apps;Building+Immersive+Digital+Experiences" alt="Typing SVG" />  
 
 </div>  
 
@@ -10,82 +10,99 @@
 
 ## **🔥 About Me**  
 
-💻 **Full-Stack Developer** with expertise in **MERN Stack**  
-⚡ Passionate about **real-time web apps** & **smooth UI animations**  
-🚀 Building **scalable, performant, and maintainable** web applications  
-🎨 Love crafting **interactive, animated UIs** with **GSAP & Framer Motion**  
-📊 Strong focus on **clean, efficient, and reusable** code  
+💡 **Innovative Full-Stack Developer** with a passion for **real-time systems** and **fluid UI animations**  
+🎯 Specializing in **MERN stack**, **WebSockets**, and **interactive web experiences**  
+🚀 Obsessed with **performance optimization** and **scalable architecture**  
+✨ Creating **visually stunning, high-performance** web applications  
+🧠 Constantly exploring **WebGL, Three.js, and advanced animation techniques**  
 
 ---
 
 ## **🛠️ Tech Stack**  
 
-### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
+### **✨ Frontend & Animation**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)  
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)  
+### **⚡ Backend & Real-Time**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-### **Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+### **🔧 DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ---
 
 ## **🚀 Featured Projects**  
 
-### **🌋 Landslide Disaster Management System**  
-🔹 **MERN Stack** | **Real-time Alerts** | **WebSockets**  
-📌 Monitors rainfall, terrain, and soil data to predict landslides  
-🔗 [GitHub](https://github.com/mankirat657/landslide-disaster-management)  
+### **🌪️ Real-Time Weather Visualization**  
+🌀 **React + Three.js + WebSockets** | **Dynamic 3D Weather Maps**  
+📌 Live weather data rendered in interactive 3D environments  
+🔗 [Live Demo](#) | [GitHub](https://github.com/mankirat657/weather-visualization)  
 
-### **💬 Real-Time Chat App**  
-🔹 **MERN + Socket.io** | **Instant Messaging**  
-📌 Live chat with WebSocket-powered updates  
-🔗 [GitHub](https://github.com/mankirat657/realtime-chat-app)  
+### **💬 Next-Level Chat Experience**  
+💥 **MERN + Socket.io + Message Animations**  
+📌 Chat app with message reactions, typing indicators & GSAP animations  
+🔗 [Live Demo](#) | [GitHub](https://github.com/mankirat657/next-chat)  
 
-### **🔗 Favorite Link Setter**  
-🔹 **React + LocalStorage** | **Productivity Tool**  
-📌 Save and quickly access frequently used links  
-🔗 [GitHub](https://github.com/mankirat657/favorite-links)  
+### **🎮 Interactive Portfolio Concept**  
+✨ **Next.js + Framer Motion + WebGL**  
+📌 Immersive portfolio with 3D elements and micro-interactions  
+🔗 [Live Demo](#) | [GitHub](https://github.com/mankirat657/interactive-portfolio)  
 
 ---
 
-## **📈 GitHub Stats**  
+## **📈 GitHub Analytics**  
 
 <div align="center">  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mankirat657&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=mankirat657&theme=radical&hide_border=true&border_radius=10&background=0D1117)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankirat657&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mankirat657)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankirat657&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/mankirat657)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mankirat657&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mankirat657)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mankirat657&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)](https://github.com/mankirat657)  
 
 </div>  
 
 ---
 
-## **📫 Let's Connect!**  
+## **📫 Let's Build Something Amazing**  
 
-🔗 [**GitHub**](https://github.com/mankirat657)  
-💼 [**LinkedIn**](#) 
-📧 **mankirat.matharu@gmail.com** 
+<div align="center">  
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mankirat.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mankirat-singh)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mankirat_dev)  
+📧 **mankirat@dev.io**  
+
+</div>  
 
 ---
 
 <div align="center">  
 
-### **⚡ Thanks for visiting! Let's build something amazing together.**  
+### **⚡ Turning Ideas Into Immersive Digital Experiences**  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mankirat657&color=blueviolet&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=mankirat657&color=00F0FF&style=for-the-badge)  
 
 </div>  
+
+---
+
+### **🎨 Design Philosophy**  
+*"Great UX is invisible, but unforgettable. I craft interfaces that feel alive while remaining intuitive."*  
+
+### **🚀 Current Obsessions**  
+- **WebGL & 3D Web Experiences**  
+- **Real-time Data Visualization**  
+- **Micro-interactions & Motion Design**  
+- **Web Performance Optimization**  
 
