@@ -76,8 +76,8 @@
 ## **📫 Let's Connect!**  
 
 🔗 [**GitHub**](https://github.com/mankirat657)  
-💼 [**LinkedIn**](#) *(Add your LinkedIn link)*  
-📧 **Email** *(Add your email)*  
+💼 [**LinkedIn**](#) 
+📧 **mankirat.matharu@gmail.com** 
 
 ---
 
