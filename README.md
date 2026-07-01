@@ -1,21 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00FFD1,100:2C5364&height=220&section=header&text=Mankirat%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript%20%7C%20AI%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00FFD1,100:2C5364&height=250&section=header&text=MANKIRAT%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Developer%20•%20MERN%20%2B%20TypeScript%20•%20AI%20Builder&descAlignY=52&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%A4%96;MERN+Stack+%2B+TypeScript+Specialist;Real-Time+Apps+%7C+WebSockets+%7C+Clean+Code;GSAP+%26+Framer+Motion+Animation+Nerd;Currently+shipping%3A+AlQuida+AI+%26+OptiTask+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;MERN+Stack+%2B+TypeScript+Specialist;Real-Time+Apps+%7C+WebSockets+%7C+Clean+Code;GSAP+%26+Framer+Motion+Animation+Nerd;Currently+shipping%3A+AlQuida+AI+%26+OptiTask+AI" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://mellow-jalebi-ca7484.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00FFD1?style=for-the-badge&labelColor=0F2027" /></a>
 <a href="mailto:mankirat.matharu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" /></a>
 <a href="https://github.com/mankirat657"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" /></a>
-
 <img src="https://komarev.com/ghpvc/?username=mankirat657&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<!-- ================= CONTRIBUTION SNAKE — HERO SPOT ================= -->
+<div align="center">
+
+### 🐍 Eating My Way Through Every Commit
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<!-- ================= WHOAMI ================= -->
 ## 🧠 `whoami`
 
 ```yaml
@@ -58,6 +73,7 @@ status: 🟢 Open to full-time opportunities
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<!-- ================= EXPERIENCE ================= -->
 ## 💼 Experience Timeline
 
 ```
@@ -79,6 +95,7 @@ status: 🟢 Open to full-time opportunities
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -96,6 +113,7 @@ status: 🟢 Open to full-time opportunities
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Builds
 
 <table>
@@ -156,6 +174,7 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<!-- ================= GITHUB ANALYTICS ================= -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -174,31 +193,7 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📈 Contribution Snake
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    mankirat657: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
+<!-- ================= CONTACT ================= -->
 <div align="center">
 
 ## 📫 Let's Build Something Great
