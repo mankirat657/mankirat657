@@ -176,11 +176,26 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 
 ## 📈 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake.svg" width="100%"/>
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    mankirat657: ${{ github.repository_owner }}
 
-<sub>⚠️ This animates automatically once you add the <code>github-actions/contribution-snake</code> workflow to your profile repo — see notes below.</sub>
-</div>
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
