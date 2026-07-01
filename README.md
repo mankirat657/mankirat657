@@ -1,34 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00FFD1,100:2C5364&height=250&section=header&text=MANKIRAT%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Developer%20•%20MERN%20%2B%20TypeScript%20•%20AI%20Builder&descAlignY=52&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00FFD1,100:2C5364&height=260&section=header&text=MANKIRAT%20SINGH&fontSize=58&fontColor=ffffff&fontAlignY=30&desc=Full-Stack%20Developer%20•%20MERN%20%2B%20TypeScript%20•%20AI%20Builder&descAlignY=52&descSize=17&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;MERN+Stack+%2B+TypeScript+Specialist;Real-Time+Apps+%7C+WebSockets+%7C+Clean+Code;GSAP+%26+Framer+Motion+Animation+Nerd;Currently+shipping%3A+AlQuida+AI+%26+OptiTask+AI" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://mellow-jalebi-ca7484.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00FFD1?style=for-the-badge&labelColor=0F2027" /></a>
-<a href="mailto:mankirat.matharu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" /></a>
-<a href="https://github.com/mankirat657"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" /></a>
-<img src="https://komarev.com/ghpvc/?username=mankirat657&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://mellow-jalebi-ca7484.netlify.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00FFD1?style=for-the-badge&labelColor=0F2027" /></a>
+<a href="mailto:mankirat.matharu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_Hi-00FFD1?style=for-the-badge&labelColor=0F2027" /></a>
+<a href="https://github.com/mankirat657"><img src="https://img.shields.io/badge/GITHUB-Follow-00FFD1?style=for-the-badge&labelColor=0F2027" /></a>
+<img src="https://komarev.com/ghpvc/?username=mankirat657&color=00ffd1&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BCA-GGSIPU-0F2027?style=flat-square&labelColor=00FFD1" />
+<img src="https://img.shields.io/badge/EXPERIENCE-2x_Internships-0F2027?style=flat-square&labelColor=00FFD1" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_Work-0F2027?style=flat-square&labelColor=00FFD1" />
 
 </div>
 
 <br/>
 
-<!-- ================= CONTRIBUTION SNAKE — HERO SPOT ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-snake.svg#gh-light-mode-only" width="100%"/>
+</p>
+
+<p align="center"><sub>🐍 live contribution snake — see setup note at the bottom if this box looks empty</sub></p>
+
+<br/>
+
 <div align="center">
-
-### 🐍 Eating My Way Through Every Commit
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/mankirat657/mankirat657/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ================= WHOAMI ================= -->
 ## 🧠 `whoami`
@@ -48,7 +52,7 @@ status: 🟢 Open to full-time opportunities
 <td width="60%" valign="top">
 
 - 🎓 BCA Graduate, GGSIPU
-- 💼 2x Software Development Internships (React / React+TypeScript)
+- 💼 2x Software Development Internships (React / React + TypeScript)
 - 🤖 Building AI-powered products end-to-end — from schema design to pixel-perfect animation
 - 🎨 Obsessed with motion design — if it doesn't animate, it doesn't ship
 - 📊 Sharpening backend + SQL chops to go full-stack, full-power
@@ -71,7 +75,9 @@ status: 🟢 Open to full-time opportunities
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- ================= EXPERIENCE ================= -->
 ## 💼 Experience Timeline
@@ -93,7 +99,9 @@ status: 🟢 Open to full-time opportunities
    React components        modules in production
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Arsenal
@@ -104,14 +112,16 @@ status: 🟢 Open to full-time opportunities
 
 <br/><br/>
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0F2027?style=for-the-badge&logo=framer&logoColor=00FFD1)
+![GSAP](https://img.shields.io/badge/GSAP-0F2027?style=for-the-badge&logo=greensock&logoColor=00FFD1)
+![Socket.io](https://img.shields.io/badge/Socket.io-0F2027?style=for-the-badge&logo=socket.io&logoColor=00FFD1)
+![REST API](https://img.shields.io/badge/REST_API-0F2027?style=for-the-badge&logo=postman&logoColor=00FFD1)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Builds
@@ -172,7 +182,9 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 ## 📊 GitHub Analytics
@@ -191,16 +203,18 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 <img src="https://github-profile-trophy.vercel.app/?username=mankirat657&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- ================= CONTACT ================= -->
 <div align="center">
 
 ## 📫 Let's Build Something Great
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mellow--jalebi-00FFD1?style=for-the-badge&labelColor=0F2027)](https://mellow-jalebi-ca7484.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-mankirat657-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027)](https://github.com/mankirat657)
-[![Gmail](https://img.shields.io/badge/Email-mankirat.matharu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027)](mailto:mankirat.matharu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mellow--jalebi-0F2027?style=for-the-badge&labelColor=00FFD1)](https://mellow-jalebi-ca7484.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-mankirat657-0F2027?style=for-the-badge&labelColor=00FFD1)](https://github.com/mankirat657)
+[![Gmail](https://img.shields.io/badge/Email-mankirat.matharu%40gmail.com-0F2027?style=for-the-badge&labelColor=00FFD1)](mailto:mankirat.matharu@gmail.com)
 
 <br/>
 
@@ -209,3 +223,20 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:00FFD1,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary><sub>⚙️ Snake animation not showing? Click here for the 2-minute fix</sub></summary>
+<br/>
+
+The snake needs a one-time setup because it reads your actual contribution graph:
+
+1. Create a repo named **exactly** `mankirat657` (must match your username — this is your GitHub profile repo).
+2. Inside it, add the included `snake.yml` file at the path `.github/workflows/snake.yml`.
+3. Go to **Settings → Actions → General → Workflow permissions** and select **"Read and write permissions."**
+4. Go to the **Actions** tab, select "Generate Snake Animation," and click **"Run workflow"** to trigger it manually the first time.
+5. Wait ~1 minute — it creates an `output` branch with your snake SVGs. Refresh your profile page and it'll appear.
+6. After that, it regenerates automatically every day.
+
+</details>
