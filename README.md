@@ -135,7 +135,7 @@ status: 🟢 Open to full-time opportunities
 
 `React` `TypeScript` `Node.js` `MongoDB` `AI Integration`
 
-[![Repo](https://img.shields.io/badge/View_Project-00FFD1?style=for-the-badge&logo=github&logoColor=black)](#)
+[![Repo](https://img.shields.io/badge/View_Project-00FFD1?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mankirat657/vidyapeethLMS-backend)
 
 </td>
 <td width="50%">
@@ -145,7 +145,7 @@ status: 🟢 Open to full-time opportunities
 
 `React` `Node.js` `Express` `MongoDB` `AI Integration`
 
-[![Repo](https://img.shields.io/badge/View_Project-00FFD1?style=for-the-badge&logo=github&logoColor=black)](#)
+[![Repo](https://img.shields.io/badge/View_Project-00FFD1?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mankirat657/DevFlow)
 
 </td>
 </tr>
