@@ -227,17 +227,4 @@ Instant messaging with live, WebSocket-powered updates and zero lag.
 <br/>
 
 <details>
-<summary><sub>⚙️ Snake animation not showing? Click here for the 2-minute fix</sub></summary>
-<br/>
 
-The snake needs a one-time setup because it reads your actual contribution graph:
-
-1. Create a repo named **exactly** `mankirat657` (must match your username — this is your GitHub profile repo).
-2. Inside it, add the included `snake.yml` file at the path `.github/workflows/snake.yml`.
-3. Go to **Settings → Actions → General → Workflow permissions** and select **"Read and write permissions."**
-4. Go to the **Actions** tab, select "Generate Snake Animation," and click **"Run workflow"** to trigger it manually the first time.
-5. Wait ~1 minute — it creates an `output` branch with your snake SVGs. Refresh your profile page and it'll appear.
-6. After that, it regenerates automatically every day.
-
-</details>
-only change the color to red give full file again only do this
